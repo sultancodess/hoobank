@@ -10,7 +10,6 @@ Experience an elegant, performance-optimized web application designed to enhance
 
 ## 🖥️ Live Demo  
 👉 [**Check Out the Live Demo Here** 🚀](https://hoobanky.netlify.app/)  
-Experience the modern and responsive HooBank landing page in action!  
 ---
 
 ## ✨ Features
@@ -27,13 +26,5 @@ Experience the modern and responsive HooBank landing page in action!
 - **Icons:** Lucide Icons (optional)
 - **Styling:** Tailwind CSS for utility-first responsive design
 
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/your-username/hoobank-landing-page.git
-cd hoobank-landing-page
 
 
